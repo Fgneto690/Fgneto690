@@ -1,4 +1,4 @@
-## SobreSobre
+## Sobre
 💡 Apaixonado por qualidade e tecnologia, em busca de uma oportunidade para ingressar na área de QA!
 
 Meu Nome é Francisco Soares, Tenho 20 anos e sou um estudante da area de Analise e Desenvolvimento de Sistemas.
