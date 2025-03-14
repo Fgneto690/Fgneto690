@@ -1,21 +1,36 @@
-## Sobre
-💡 Apaixonado por qualidade e tecnologia, em busca de uma oportunidade para ingressar na área de QA!
+# 💻 Francisco Soares
 
-Meu Nome é Francisco Soares, Tenho 20 anos e sou um estudante da area de Analise e Desenvolvimento de Sistemas.
+## 🚀 Sobre mim
+Apaixonado por qualidade e tecnologia, estou em busca de oportunidades para ingressar na área de **Quality Assurance (QA)** e contribuir para a melhoria contínua de produtos digitais.
 
-Atualmente, estou me especializando em Testes de Software (Manuais e Automáticos), aprimorando minhas habilidades por meio de cursos e projetos práticos. Meu objetivo é assegurar a qualidade e a confiabilidade de produtos digitais, garantindo uma experiência impecável para os usuários.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente estou me especializando em **Testes de Software**, tanto **manuais quanto automatizados**. Minha missão é assegurar a qualidade e confiabilidade dos sistemas, proporcionando a melhor experiência para os usuários.
 
-## 🎯 O que eu já sei e continuo aperfeiçoando:
-✔ Testes Manuais – Criação de casos de teste, execução e documentação, garantindo que o sistema esteja em conformidade com os requisitos.
-✔ Automação de Testes – Desenvolvimento de scripts de automação utilizando Selenium, Robot Framework e Python.
-✔ Testes de API – Uso de Postman para validação de endpoints e testes de integração.
-✔ Metodologias Ágeis – Experiência com Scrum e Kanban, participando de dinâmicas para simular o fluxo de trabalho ágil.
-✔ Ferramentas e Controle de Versão – Conhecimento em JIRA para rastreamento de bugs e Git para versionamento de código.
+## 🎯 Habilidades e Tecnologias
 
-## 🚀 Por que me contratar?
-💡 Sou curioso, analítico e atento aos detalhes, características fundamentais para um profissional de QA.
-📚 Estou em constante aprendizado, buscando sempre novas ferramentas e técnicas para aprimorar meu trabalho.
-🤝 Tenho habilidade para trabalhar em equipe, colaborando com desenvolvedores e demais stakeholders para entregar um produto de qualidade.
+- **Testes Manuais**: Criação e execução de casos de teste, documentação de bugs e verificação de conformidade com os requisitos.
+- **Automação de Testes**: Desenvolvimento de scripts de automação utilizando **Cypress**, **Selenium**, **Robot Framework** e **Python**.
+- **Testes de API**: Uso do **Postman** para validação de endpoints e testes de integração.
+- **Metodologias Ágeis**: Experiência com **Scrum** e **Kanban**, participando de dinâmicas para simular o fluxo de trabalho ágil.
+- **Ferramentas e Controle de Versão**: Conhecimento em **JIRA** para rastreamento de bugs e **Git** para versionamento de código.
 
-Estou pronto para agregar valor ao seu time de QA! Vamos conversar? 👨‍💻📩
+## 🛠️ Tecnologias que utilizo
+
+### 📌 Linguagens:
+- Python 🐍
+- JavaScript 📜
+
+### ⚡ Frameworks e Ferramentas:
+- **Django** 🌿
+- **Bootstrap 3** 🎨
+- **Cypress** 🧪
+- **Selenium** 🤖
+- **Robot Framework** 🤖
+- **Postman** 📡
+- **JIRA** 📝
+- **Git & GitHub** 🌍
+
+## 📫 Conecte-se comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-soares-da-silva-neto/)
+
+📌 Sempre aberto a novas conexões e oportunidades! 🚀
 
